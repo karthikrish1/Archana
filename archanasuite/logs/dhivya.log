@@ -1,0 +1,4 @@
+[INFO ] 2023-12-21 10:47:17.657 [main] k1 - visited website
+[INFO ] 2023-12-21 10:47:17.663 [main] k1 - going to click n checkboxes
+[WARN ] 2023-12-21 10:47:17.710 [main] k1 - check box may not be visible
+[INFO ] 2023-12-21 10:47:21.075 [main] k1 - closing
